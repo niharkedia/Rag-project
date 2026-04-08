@@ -1,0 +1,10 @@
+langchain
+langchain-groq ## easy access to groq api
+faiss-cpu ## vector store
+tiktoken ## tokenization
+langchain-community ## community packages
+langchain-openai ## openai integration
+chromadb ## vector store
+python-dotenv ## environment variables
+sentence-transformers ## embedding models -> text to vectors easy conversion
+pypdf ## pdf processing
